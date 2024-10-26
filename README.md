@@ -1,16 +1,34 @@
-# habit_tracker
+**Habit Tracker App**
+======================
 
-A new Flutter project.
+A simple and intuitive habit tracking app to help you stay on top of your daily routines.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+* **Track habits**: Set reminders, log progress, and visualize your streaks
+* **Customizable habits**: Create custom habits tailored to your specific goals and needs
+* **Integrations**: Sync with popular calendar apps like Google Calendar, Apple Calendar, and Outlook
+* **Analytics**: Track your habit tracking progress over time and receive insights on areas for improvement
 
-A few resources to get you started if this is your first Flutter project:
+### How it Works
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Create a habit**: Set a new habit or edit an existing one by providing the name, description, frequency, and start/end dates.
+2. **Log progress**: Mark the day as completed to track your streaks and progress.
+3. **View analytics**: Get a summary of your habit tracking history and insights on areas for improvement.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+
+[**Screen 1: Habit List**](https://s11.gifyu.com/images/SOjUB.png)
+
+### Installation
+
+To get started, simply clone the repository and run `flutter pub get`. Follow the installation instructions in the [README.md file](#installation).
+
+### Contribute
+
+Contributions are welcome! If you have any suggestions or bug reports, please create a new issue on [GitHub](https://github.com/Bishwajit-2810/Habit-Tracker).
+
+
+### Acknowledgments
+
+* **Bishwajit** for creating this app
